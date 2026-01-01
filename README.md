@@ -17,11 +17,11 @@ This will also encourage me to be consistent with my GitHub Page and fill it wit
 
 ### Index of Books | فهرس الكتب  
 Under each catergory, there should be branches for:  
-1- Mutun (Text) of the Hadith/ Hadith Sciences Collections 
+1- Mutun (Text) of the Hadith/ Hadith Sciences Collections   
 2- Shuruh (Explanations) of said texts.  
 
 ### Branch 1: Hadith Collections | جوامع الاحاديث   
-Masanid | مسانيد
+Masanid | مسانيد  
 Sunan | سنن
 Sahih | صحيح
 
